@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Era Gym",
+  "description": "High converting landing page for Fitness Era Gym.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
